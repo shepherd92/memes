@@ -1,0 +1,6 @@
+api_name,client_id,secret_key
+<API name 1>,<some client ID>,<some secret key>
+<API name 2>,<some client ID>,<some secret key>
+<API name 3>,<some client ID>,<some secret key>
+...
+<API name N>,<some client ID>,<some secret key>

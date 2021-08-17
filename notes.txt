@@ -1,0 +1,4 @@
+2021 August 17 Peter
+  I have cleaned up the data collection script a bit, in particular:
+  - turned off the online processing by commenting it
+  - cleaned up the interfaces

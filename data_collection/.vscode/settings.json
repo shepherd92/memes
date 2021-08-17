@@ -1,0 +1,4 @@
+{
+    "http.systemCertificates": false,
+    "http.proxy": "http://rbins.bosch.com/bp.pac"
+}
